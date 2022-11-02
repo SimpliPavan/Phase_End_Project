@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2521" started-at="2022-11-02T08:48:24 UTC" finished-at="2022-11-02T08:48:26 UTC">
+  <suite name="Default suite" duration-ms="2353" started-at="2022-11-02T10:20:05 UTC" finished-at="2022-11-02T10:20:08 UTC">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2521" started-at="2022-11-02T08:48:24 UTC" finished-at="2022-11-02T08:48:26 UTC">
+    <test name="Default test" duration-ms="2353" started-at="2022-11-02T10:20:05 UTC" finished-at="2022-11-02T10:20:08 UTC">
       <class name="log4j.Log4jCreateUser">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:log4j.Log4jCreateUser@5ef60048]" name="setUp" is-config="true" duration-ms="49" started-at="2022-11-02T08:48:24 UTC" finished-at="2022-11-02T08:48:24 UTC">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:log4j.Log4jCreateUser@5ef60048]" name="setUp" is-config="true" duration-ms="55" started-at="2022-11-02T10:20:05 UTC" finished-at="2022-11-02T10:20:05 UTC">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="CreatePostData()[pri:0, instance:log4j.Log4jCreateUser@5ef60048]" name="CreatePostData" duration-ms="308" started-at="2022-11-02T08:48:24 UTC" finished-at="2022-11-02T08:48:24 UTC">
+        <test-method status="PASS" signature="CreatePostData()[pri:0, instance:log4j.Log4jCreateUser@5ef60048]" name="CreatePostData" duration-ms="307" started-at="2022-11-02T10:20:05 UTC" finished-at="2022-11-02T10:20:06 UTC">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CreatePostData -->
-        <test-method status="PASS" signature="CreateUser()[pri:1, instance:log4j.Log4jCreateUser@5ef60048]" name="CreateUser" duration-ms="2125" started-at="2022-11-02T08:48:24 UTC" finished-at="2022-11-02T08:48:26 UTC">
+        <test-method status="PASS" signature="CreateUser()[pri:1, instance:log4j.Log4jCreateUser@5ef60048]" name="CreateUser" duration-ms="1953" started-at="2022-11-02T10:20:06 UTC" finished-at="2022-11-02T10:20:08 UTC">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CreateUser -->
